@@ -1,4 +1,4 @@
 {
-  "dl": "https://localhost:8888/api/v1/crates",
-  "api": "https://localhost:8888"
+  "dl": "http://localhost:8888/api/v1/crates",
+  "api": "http://localhost:8888"
 }
