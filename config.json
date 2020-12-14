@@ -1,4 +1,4 @@
 {
-  "dl": "http://localhost:8888/api/v1/crates",
-  "api": "http://localhost:8888"
+  "dl": "https://expcrates.caeg.co.za/api/v1/crates",
+  "api": "https://expcrates.caeg.co.za/"
 }
