@@ -3,3 +3,4 @@
 {"name":"some-crate","vers":"0.4.1","deps":[{"name":"namespace","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b39af30593989a0fbb62ccb725615fa699b39b7d313e3fcb17de38fe005cced","features":{},"yanked":false,"links":null}
 {"name":"some-crate","vers":"0.4.2","deps":[],"cksum":"0e9cef69d47d7c19d52769aac021c9cf1085cdfcb73927a7ae96af0d7cccf8e2","features":{},"yanked":false,"links":null}
 {"name":"some-crate","vers":"0.4.3","deps":[],"cksum":"60c2992a23fd3e519990af6281cba66a5c7f94adfe8cf06053417239111d779c","features":{},"yanked":false,"links":null}
+{"name":"some-crate","vers":"0.4.4","deps":[],"cksum":"640a843fad165109ef3792cfe9c67a84910d4fa35dc5e8d792643699a770dbda","features":{},"yanked":false,"links":null}
