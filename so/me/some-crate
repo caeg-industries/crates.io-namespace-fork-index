@@ -4,3 +4,4 @@
 {"name":"some-crate","vers":"0.4.2","deps":[],"cksum":"0e9cef69d47d7c19d52769aac021c9cf1085cdfcb73927a7ae96af0d7cccf8e2","features":{},"yanked":false,"links":null}
 {"name":"some-crate","vers":"0.4.3","deps":[],"cksum":"60c2992a23fd3e519990af6281cba66a5c7f94adfe8cf06053417239111d779c","features":{},"yanked":false,"links":null}
 {"name":"some-crate","vers":"0.4.4","deps":[],"cksum":"640a843fad165109ef3792cfe9c67a84910d4fa35dc5e8d792643699a770dbda","features":{},"yanked":false,"links":null}
+{"name":"some-crate","vers":"0.4.5","deps":[],"cksum":"c8399b997d65158d023a055b2a622d392552cf8dca822d4a13113aa93437dbdf","features":{},"yanked":false,"links":null}
