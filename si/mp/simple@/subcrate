@@ -3,3 +3,4 @@
 {"name":"simple/subcrate","vers":"0.1.2","deps":[],"cksum":"f94a88d616f040a9bbd51d7aadc8f36e01382686b7a9d76cb86c40a9a927e9c7","features":{},"yanked":false,"links":null}
 {"name":"simple/subcrate","vers":"0.1.3","deps":[],"cksum":"44370fc2d1753b31aa408638d2a3ce1f5c36c3d0777dc732f6615e939b6ea57c","features":{},"yanked":false,"links":null}
 {"name":"simple/subcrate","vers":"0.1.4","deps":[],"cksum":"a40af03f43bf39246d7d6900d859c8ff25d11a9c01d56b124649f1d6a68c907c","features":{},"yanked":false,"links":null}
+{"name":"simple/subcrate","vers":"0.1.5","deps":[],"cksum":"c15c78828127d9d7fdd6f04ed1722bd2825f417f0f7a37d4b81829644f2c7435","features":{},"yanked":false,"links":null}
