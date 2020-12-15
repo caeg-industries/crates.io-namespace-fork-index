@@ -2,3 +2,4 @@
 {"name":"six","vers":"0.0.2","deps":[],"cksum":"5860d8a810737dff3d3716ee4129868363418160dce59b755f1bd49538d274cc","features":{},"yanked":false,"links":null}
 {"name":"six","vers":"0.0.3","deps":[],"cksum":"1771dbd7a2907208f5c84e305085b5fc7b04a5ee0d67a1c797ebce555d735f19","features":{},"yanked":false,"links":null}
 {"name":"six","vers":"0.0.4","deps":[],"cksum":"b285abafe804d61ced080411e0e0dfc273bf319ae6d36c7187868bd34dfe3ec9","features":{},"yanked":false,"links":null}
+{"name":"six","vers":"0.0.5","deps":[{"name":"namespace/subcrate","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"624243547c232890126c7137d932c877d36430049e6346744bd671c39ab53d92","features":{},"yanked":false,"links":null}
