@@ -1,1 +1,2 @@
 {"name":"parent","vers":"0.0.1","deps":[],"cksum":"129f513b4f4c5bd56c77fea982619f47b84bf0590f229f8d404ff6befcdece47","features":{},"yanked":false,"links":null}
+{"name":"parent","vers":"0.1.0","deps":[{"name":"parent/sub","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1df6b5b91f684784f850a70c0c7fa2afdc4ed0c49b5f0af0aa55e3b11019a585","features":{},"yanked":false,"links":null}
