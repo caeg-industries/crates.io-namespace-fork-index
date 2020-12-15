@@ -1,1 +1,2 @@
 {"name":"five","vers":"0.0.1","deps":[],"cksum":"f21ce7427eade9b212c4e207292a417ffc2cdfbb17f670914e52984af9f1fa86","features":{},"yanked":false,"links":null}
+{"name":"five","vers":"0.0.2","deps":[{"name":"simple","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3de2b437008bee8417ff3643bb77c2d61350f9f974b85e00296ec4fd4d46f361","features":{},"yanked":false,"links":null}
