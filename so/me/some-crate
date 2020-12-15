@@ -1,2 +1,3 @@
 {"name":"some-crate","vers":"0.1.0","deps":[],"cksum":"209ff1f07a0fdc994b512d765126294e41fe4e67dd8b0d0ceece9aa794cd1de3","features":{},"yanked":false,"links":null}
 {"name":"some-crate","vers":"0.2.0","deps":[{"name":"namespace","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dff250878538357924b804e6ebb15ef3a3a1a2a257232da17dd9df00f153d215","features":{},"yanked":false,"links":null}
+{"name":"some-crate","vers":"0.4.1","deps":[{"name":"namespace","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b39af30593989a0fbb62ccb725615fa699b39b7d313e3fcb17de38fe005cced","features":{},"yanked":false,"links":null}
