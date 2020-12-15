@@ -1,2 +1,3 @@
 {"name":"simple/subcrate","vers":"0.1.0","deps":[],"cksum":"490885a132e48170dd3d2a6b4e51d5afd99babe88f2dd952ddb3d289f7a2301d","features":{},"yanked":false,"links":null}
 {"name":"simple/subcrate","vers":"0.1.1","deps":[],"cksum":"dd89e04acd415419364615e8a5e225ae28998b84e045b6929ce2d39a6983820d","features":{},"yanked":false,"links":null}
+{"name":"simple/subcrate","vers":"0.1.2","deps":[],"cksum":"f94a88d616f040a9bbd51d7aadc8f36e01382686b7a9d76cb86c40a9a927e9c7","features":{},"yanked":false,"links":null}
