@@ -1,0 +1,1 @@
+{"name":"parent/other-sub","vers":"0.2.0","deps":[{"name":"parent/sub","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22aae92dc863fb3a1c44ed25395462a25aed1cef974bc605e8b2491bb0c472ef","features":{},"yanked":false,"links":null}
