@@ -9,3 +9,4 @@
 {"name":"some-crate","vers":"0.5.0","deps":[{"name":"namespace/subcrate","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa500f8e30fd9a67826399f3fb7956a9bc37f48f9561a20ec5dccaef41e71a51","features":{},"yanked":false,"links":null}
 {"name":"some-crate","vers":"0.6.0","deps":[{"name":"namespace","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff947932305f725e65fa717988a354add5b3b64610376d461666b5d2f91030d7","features":{},"yanked":false,"links":null}
 {"name":"some-crate","vers":"0.6.1","deps":[],"cksum":"ff46df606c636bd089d638d3b9710113b862d2f1d12aa6980e8fcc67f9a22cfe","features":{},"yanked":false,"links":null}
+{"name":"some-crate","vers":"0.6.2","deps":[],"cksum":"703e725d750d39935270f727cb702d10500cbe4206b5a87bfbe3606cc41aa990","features":{},"yanked":false,"links":null}
