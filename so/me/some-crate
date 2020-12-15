@@ -6,3 +6,4 @@
 {"name":"some-crate","vers":"0.4.4","deps":[],"cksum":"640a843fad165109ef3792cfe9c67a84910d4fa35dc5e8d792643699a770dbda","features":{},"yanked":false,"links":null}
 {"name":"some-crate","vers":"0.4.5","deps":[],"cksum":"c8399b997d65158d023a055b2a622d392552cf8dca822d4a13113aa93437dbdf","features":{},"yanked":false,"links":null}
 {"name":"some-crate","vers":"0.4.6","deps":[],"cksum":"188d46f03a966cdfa6d0c5896828b20f7d6fe57e67486cc8671d23b4d0e207ec","features":{},"yanked":false,"links":null}
+{"name":"some-crate","vers":"0.5.0","deps":[{"name":"namespace/subcrate","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa500f8e30fd9a67826399f3fb7956a9bc37f48f9561a20ec5dccaef41e71a51","features":{},"yanked":false,"links":null}
