@@ -1,1 +1,2 @@
 {"name":"snafu","vers":"0.1.0","deps":[],"cksum":"e78707e66515f35224a9141c34f97c724018e76e5cc58e9273d0c81c62012e2c","features":{},"yanked":false,"links":null}
+{"name":"snafu","vers":"0.6.10","deps":[{"name":"snafu/derive","req":"^0.6.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"638293c034f76c70059f7b121c6b33858209be5a9a7dd330799999ee6851f72d","features":{"guide":[],"default":["std","guide"],"std":[]},"yanked":false,"links":null}
